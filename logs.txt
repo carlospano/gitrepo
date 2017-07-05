@@ -1,0 +1,29 @@
+commit 2d8b038d42a7d383d4d015ade0c8cd81054cefd9
+Author: Carlos Pano <carlos.pano101494@gmail.com>
+Date:   Tue Jul 4 09:55:29 2017 -0600
+
+    integracion de bootstrap
+
+commit 7b7f29af1dd9309ffc2bfcb43e546c3983ad0d86
+Author: Carlos Pano <carlos.pano101494@gmail.com>
+Date:   Tue Jul 4 09:49:26 2017 -0600
+
+    se agrego footer
+
+commit 77f5531ed7a520df2a8d285eafcd1679da2bd1c4
+Author: Carlos Pano <carlos.pano101494@gmail.com>
+Date:   Tue Jul 4 09:45:45 2017 -0600
+
+    Agregue una imagen
+
+commit 6e53ecf1858f9149133055cb33dd14f4b2af8fc9
+Author: Carlos Pano <carlos.pano101494@gmail.com>
+Date:   Tue Jul 4 09:41:04 2017 -0600
+
+    se agrego titulo de la pagina
+
+commit 2727be33e6b15ebc6676984b82e01b2cec64dadc
+Author: Carlos Pano <carlos.pano101494@gmail.com>
+Date:   Tue Jul 4 09:37:17 2017 -0600
+
+    Proyecto con estructura inicial
